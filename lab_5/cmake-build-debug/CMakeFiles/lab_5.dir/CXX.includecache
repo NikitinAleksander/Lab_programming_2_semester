@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/383/Desktop/ /учеба/2 семестр/программирование/lab_5/Header.h
+vector
+-
+string
+-
+
+C:/Users/383/Desktop/ /учеба/2 семестр/программирование/lab_5/Source.cpp
+iostream
+-
+Header.h
+C:/Users/383/Desktop/ /учеба/2 семестр/программирование/lab_5/Header.h
+algorithm
+-
+
