@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/383/Desktop/ /учеба/2 семестр/программирование/lab_4/header.h
+iostream
+-
+string
+-
+vector
+-
+cstring
+-
+
+C:/Users/383/Desktop/ /учеба/2 семестр/программирование/lab_4/main.cpp
+iostream
+-
+header.h
+C:/Users/383/Desktop/ /учеба/2 семестр/программирование/lab_4/header.h
+string
+-
+cstring
+-
+cstdio
+-
+

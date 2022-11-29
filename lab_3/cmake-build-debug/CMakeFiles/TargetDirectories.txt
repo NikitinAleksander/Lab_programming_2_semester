@@ -1,0 +1,3 @@
+C:/Users/383/Desktop/ /учеба/2 семестр/программирование/lab_3_1/cmake-build-debug/CMakeFiles/lab_3_1.dir
+C:/Users/383/Desktop/ /учеба/2 семестр/программирование/lab_3_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/383/Desktop/ /учеба/2 семестр/программирование/lab_3_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
